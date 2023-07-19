@@ -1,4 +1,6 @@
-#### Rodrigo Reffiel
+<h1 align="center">
+  <img src="https://github.com/Reffiel/Reffiel/blob/main/reffiel.svg" alt="Rodrigo Reffiel" />
+</h1>
 
 ### Hello there 👋
 
