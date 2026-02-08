@@ -5,9 +5,6 @@
 ### Hello there 👋
 
 
-- 🔭 I’m currently working on Worten
-- 🌱 I’m currently learning Golang
-- 😄 Pronouns: he | him
 
   
 <!--
