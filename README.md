@@ -7,7 +7,7 @@ I'm a **Quality Assurance Analyst** enthusiast, with experience in **Software Te
 - 💬 Ask me about **Software Quality, Functional Testing, and Agile Frameworks (Scrum/Kanban)**.
 
 ## How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoreffiel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-reffiel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.reffiel@gmail.com)
 
 ## Technologies with which I have experience:
